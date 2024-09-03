@@ -4,7 +4,7 @@
 
 - 📫 How to reach me
 
-[![Mail Badge](https://img.shields.io/badge/-Danilo-Giacinti-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:danilogiacinti7412@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-DaniloGiacinti-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:danilogiacinti7412@gmail.com)
 
 
 
