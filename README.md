@@ -1,6 +1,6 @@
 ## Hi, I'm Danilo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🚀 I'm **Danilo Giacinti** — a Full Stack Web & Application Developer from **Pretoria, South Africa**.  
+🚀 I'm **Danilo Giacinti** - a Full Stack Web & Application Developer from **Pretoria, South Africa**.  
 I specialize in building modern, fast, and scalable digital experiences using tools like **Laravel**, **TailwindCSS**, **Alpine.js**, and **Docker**.
 
 ---
