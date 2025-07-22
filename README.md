@@ -25,7 +25,7 @@ I specialize in building modern, fast, and scalable digital experiences using to
 PHP • JavaScript • HTML • CSS • SQL • Python
 
 **Frameworks & Libraries:**  
-Laravel • Symfony • Alpine.js • Vue.js • Bootstrap
+Laravel • Symfony • React.js • Vue.js • Bootstrap
 
 **Tools & Platforms:**  
 Docker • TailwindCSS • Vite • Git • Laravel Forge • MySQL • Webpack
