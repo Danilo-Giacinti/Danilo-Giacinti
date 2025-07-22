@@ -52,5 +52,5 @@ REST APIs • UI/UX Design • SEO Integration • Performance Optimization • 
 
 ---
 
-> 👨‍💻 Self-taught. Passion-driven. Detail-obsessed. Let's build something great — together.  
+> 👨‍💻 AI-accelerated learner. Passion-driven. Detail-obsessed. Let's build something great — together.  
 > Visit [danilodev.dev](https://danilodev.dev) for the full story.
